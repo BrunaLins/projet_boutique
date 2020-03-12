@@ -1,0 +1,11 @@
+.container{
+	min-height: 100vh; 
+}
+
+h1{
+	color: tomato;
+}
+
+.card-title  + p{
+	height: 200px; 
+} 
